@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    direction: rtl;
+    background: #f8f9fa;
+}
+
+.card {
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
